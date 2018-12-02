@@ -1,0 +1,10 @@
+Package: CarlosDonadoCVRP
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("CARLOS", "Developer", email = "cf.donado@uniandes.edu.co", role = c("aut","cre"))
+Description: Implementación de la Heurística de CLarke y Wright para el problema de ruteo de vehículos con restricciones de capacidad. 
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
